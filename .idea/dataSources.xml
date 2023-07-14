@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="htttql@localhost" uuid="b86de01b-84dd-4360-9648-e635c50ed03c">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/htttql</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="cuongdata@database-1.cgexarjinzbg.ap-southeast-2.rds.amazonaws.com" uuid="d745141a-4d5f-45a1-9840-307c0e4be030">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://database-1.cgexarjinzbg.ap-southeast-2.rds.amazonaws.com:3306/cuongdata</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="hungdata@database-1.c174tyjfdnua.us-west-1.rds.amazonaws.com" uuid="7e454214-a875-4615-88d5-3840e5ab5599">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://database-1.c174tyjfdnua.us-west-1.rds.amazonaws.com:3306/hungdata</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
